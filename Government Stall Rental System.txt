@@ -1,0 +1,31 @@
+--Government Stall Rental System--
+
+-The libraries that need to be install:
+
+pillow
+fpdf
+flask
+customtkinter
+numpy
+pyperclip
+dateutil
+
+deepface
+cmake	3.30.3
+dlib	19.24.2 (not all computers PyCharm can download)
+face-recognition (not all computers PyCharm can download)
+face_recognition_models
+opencv-python
+
+tkcalendar
+phonenumbers
+matplotlib
+tkintermapview
+reportlab
+geopy
+
+
+
+-some of the icon or title text will run to other place because of not same computer size
+
+-need to change the image location in database
